@@ -1,7 +1,8 @@
 <center>
-<h1>
-<img src="logo.png" width="10%" style="display:inline">
 
+<img src="logo.png" width="10%">
+
+<h1>
 The ACJ Analytics Portfolio 📊
 </h1>
 </center>
