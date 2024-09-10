@@ -1,5 +1,5 @@
 ## Analytics
-> There's a Power BI visualisation of the Descriptive Analysis I did, with a report in the Power BI service
+> There's a Power BI visualisation of the Descriptive Analysis I did, with a report in the Power BI service >>> [Customer Churn Analysis and Prediction 📊](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=465ee04a-4213-467e-a5ca-54ddf5fdfac6&pbi_source=mobile_android&groupObjectId=ca5daaca-f884-453e-b0f3-629e0261bb47&appId=&reportObjectId=0d11ddc9-7bba-4088-a754-c717f976b7fa&reportPage=ReportSectiona649437dc1d83a982e60&bookmarkGuid=2ce8b340-d8a9-49d2-a4d8-08d700d0d870&fullScreen=0)
 
 ## Customer Churn Prediction
 
